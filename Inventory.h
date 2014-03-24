@@ -1,3 +1,5 @@
+//jack edit mar 23, 2014
+
 //Inventory class to be used in composition from the main LemonadeStand class
 
 #ifndef INVENTORY_H
